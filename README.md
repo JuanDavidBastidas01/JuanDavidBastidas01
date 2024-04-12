@@ -15,11 +15,57 @@ Nice to meet you 💙 and hope to get to know you better
 
 <h1 aling='left'>Knowledge</h1>
 <table>
-<tr>
-<td aling='center' withd='100'> 
-<img src="https://skillicons.dev/icons?i=py"/>
-</td>
-</tr>
+  <tr>
+    <td aling='center' withd='150'>
+      <img src="https://skillicons.dev/icons?i=py"/>
+      <br>
+        Python
+    </td>
+    <td aling='center' withd='150'>
+      <img src="https://skillicons.dev/icons?i=java"/>
+      <br>
+        Java
+    </td>
+    <td aling='center' withd='150'>
+      <img src="https://skillicons.dev/icons?i=mysql"/>
+      <br>
+        MySql
+    </td>
+  </tr>
+  <tr>
+    <td aling='center' withd='150'>
+      <img src="https://skillicons.dev/icons?i=git"/>
+      <br>
+        Git
+    </td>
+    <td aling='center' withd='150'>
+      <img src="https://skillicons.dev/icons?i=selenium"/>
+      <br>
+        Selenium
+    </td>
+    <td aling='center' withd='150'>
+      <img src="https://skillicons.dev/icons?i=figma"/>
+      <br>
+        Figma
+    </td>
+  </tr>
+  <tr>
+    <td aling='center' withd='150'>
+      <img src="https://skillicons.dev/icons?i=html"/>
+      <br>
+        HTML
+    </td>
+    <td aling='center' withd='150'>
+      <img src="https://skillicons.dev/icons?i=css"/>
+      <br>
+        CSS
+    </td>
+    <td aling='center' withd='150'>
+      <img src="https://skillicons.dev/icons?i=visualstudio"/>
+      <br>
+        Visual Studio Code
+    </td>
+  </tr>
 </table>
   
 <h1 align='left'>Latest version: </h1>

@@ -1,6 +1,11 @@
 <h1 align="center">Hi 🤝🏾, I'm Juan David Bastidas</h1>
 <h3 align="center">A passionate Developer from Colombia 🌍</h3>
 
+![Banner](BANNER_JUANCHO.png)
+[![Gmail Info](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](juanito20011503@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/juan-david-bastidas-57a3871a7/)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/JuanDavidBastidas01)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](+573186884203)
 <h1 align="left">About me:</h1>
 <p align="left">
 I am an passionate Software Developer who enjoys learning and wants to be a better each day, In my personal skills You'll find a person who wants to have a growth mindset also very empathetic, In general I like to give a lot of support to my colleagues. However in my free time I like to do different kind of things like working out also hanging out with my friend and loved ones. Yeah!! and that's me hope you like it. 🙋🏾‍♂️
@@ -8,6 +13,15 @@ I am an passionate Software Developer who enjoys learning and wants to be a bett
 Nice to meet you 💙 and hope to get to know you better
 </p>
 
+<h1 aling='left'>Knowledge</h1>
+<table>
+<tr>
+<td aling='center' withd='100'> 
+<img src="https://skillicons.dev/icons?i=py"/>
+</td>
+</tr>
+</table>
+  
 <h1 align='left'>Latest version: </h1>
 
 Date: 12/04/2024 
